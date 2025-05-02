@@ -8,8 +8,8 @@ This privacy policy describes how Voice Translator (the "App") collects, uses, a
 
 We collect the following types of information:
 
-*   **Voice Recordings:** We collect voice recordings when you use the App's translation feature. These recordings are temporarily processed by our translation service provider to provide the translation. We do not store these recordings permanently.
-*   **Translation History:** We store your translation history locally on your device to allow you to view previous translations. This data is not transmitted to our servers. You can clear your translation history at any time within the app settings.
+*   **Voice Recordings:** We collect voice recordings when you use the App's translation feature. These recordings are temporarily processed by our translation service provider to provide the translation. We do not store these recordings permanently unless you purchases premium.
+*   **Translation History:** We store your translation history locally on your device to allow you to view previous translations. This data is not transmitted to our servers. You can clear your translation history at any time within the app settings. If you change your device, or you want to have the translations all the time you can purchase premium version.
 *   **Device Information:** We collect your device's model, operating system, and advertising identifier for analytics and advertising purposes.
 *   **Usage Data:** We collect information about how you use the app, such as the features you use, the languages you translate, and the frequency of use, to improve the app's functionality and user experience.
 *   **Ad Data:** We use Google AdMob to display ads in the app. Google may collect and use your data to personalize the ads you see. Please see Google's Privacy Policy for more information on their data collection practices.
@@ -22,6 +22,7 @@ We use your information for the following purposes:
 *   Improving the App: To analyze usage patterns, identify areas for improvement, and optimize the app's performance.
 *   Personalizing user experience: To remember your language preferences, provide a more tailored experience, and offer relevant content.
 *   Displaying ads: To generate revenue to support the app's development and maintenance. Ad revenue helps us keep the app free for our users.
+*   If you are premium: To show your translations/quiz all the time without being dependant on the device or status.
 
 ## 3. Data Sharing
 
