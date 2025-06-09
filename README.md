@@ -1,1 +1,1 @@
-# voice-translator-privacy-policy
+# privacy-policy
