@@ -1,7 +1,7 @@
 # Privacy Policy for Kelime Zinciri
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]
+**Effective Date:** 09/06/2025
+**Last Updated:** 09/06/2025
 
 ## Introduction
 
@@ -118,9 +118,8 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** [your-email@domain.com]  
-**Address:** [Your Company Address]  
-**Phone:** [Your Phone Number]
+**Email:** guresci4990@gmail.com
+
 
 ## Legal Basis for Processing (EU Users)
 
